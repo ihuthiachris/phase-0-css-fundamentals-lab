@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+nav{
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.nav-content{
+  background-color: gray;
+}
+img{
+ margin-left: -13%;
+ justify-content: center;
+}
+#featured-property{
+  text-align: center;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#details{
+  float: left;
+  background-color: red;
+  width: 25%;
+}
+.footer {
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: black;
+  text-align: center;
+}
